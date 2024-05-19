@@ -1,5 +1,5 @@
 # Netflix Clone Project
-
+![Untitledvideo-MadewithClipchamp-ezgif com-optimize](https://github.com/M-R335/Netlfix/assets/70035387/1b6c0933-0626-4453-acd1-32310ba4100c)
 ## Overview
 
 This project is a Netflix clone built using Angular 17 and the TMDB (The Movie Database) API. It integrates movie data, including images and details, from the TMDB API to provide a visually appealing and functional clone of the popular streaming service, Netflix. This project helped deepen my understanding of API integration within an Angular framework, and I gained valuable experience in fetching and displaying dynamic content.
