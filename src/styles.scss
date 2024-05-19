@@ -1,0 +1,35 @@
+/* You can add global styles to this file, and also import other style files */
+
+/* Importing Bootstrap SCSS file. */
+@import 'bootswatch/dist/cyborg/variables';
+@import 'bootstrap/scss/bootstrap';
+@import 'bootswatch/dist/cyborg/bootswatch';
+
+/* Custom scrollbar styling */
+::-webkit-scrollbar {
+    width: 6px;
+    /* Width of the scrollbar */
+    height: 0px;
+    /* Height of the scrollbar */
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+    background: transparent;
+    /* Make the track transparent */
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: rgba(0, 0, 0, 0.2);
+    /* Subtle, semi-transparent handle */
+    border-radius: 4px;
+    /* Rounded corners */
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: rgba(0, 0, 0, 0.3);
+    /* Slightly more visible on hover */
+}
+
